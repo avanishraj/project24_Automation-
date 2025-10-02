@@ -1,0 +1,10 @@
+IssueCategory = {
+  "Akaash MyCloud": {
+     "teams": ["CCD", "STG", "DNA", "DX"],
+     "sub-categories": ["Access Issue", "Performance Issue", "Other"]
+  },
+  "VPN Not Connecting": {
+     "teams": ["NET", "CCD"],
+     "sub-categories": ["Connectivity Issue", "Authentication Issue", "Other"]
+  }
+}
