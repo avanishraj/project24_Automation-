@@ -1,0 +1,82 @@
+{
+  "Akaash MyCloud": {
+    "teams": ["CCD", "STG", "DNA", "DX"],
+    "sub-categories": ["Access Issue", "Performance Issue", "Configuration Issue", "Data Sync Issue", "Other"]
+  },
+  "Asset Loss": {
+    "teams": ["HR", "ITAM", "Security"],
+    "sub-categories": ["Lost Laptop", "Lost Mobile", "Lost Badge", "Reporting Delay", "Other"]
+  },
+  "BaaS-Restore": {
+    "teams": ["STG", "BaaS", "DX"],
+    "sub-categories": ["Restore Failure", "Restore Delay", "Incorrect Backup", "Access Issue", "Other"]
+  },
+  "Client Connectivity-Application performance issue": {
+    "teams": ["NET", "APP", "CCD"],
+    "sub-categories": ["Latency", "Timeouts", "Packet Loss", "DNS Issue", "Other"]
+  },
+  "Cortex": {
+    "teams": ["DNA", "CortexOps", "DX"],
+    "sub-categories": ["Access Issue", "Data Sync Issue", "Dashboard Error", "Integration Failure", "Other"]
+  },
+  "DBaas": {
+    "teams": ["DB", "STG", "DX"],
+    "sub-categories": ["Connection Issue", "Performance Issue", "Query Timeout", "Backup Issue", "Other"]
+  },
+  "SAP Outage": {
+    "teams": ["SAP", "Infra", "CCD"],
+    "sub-categories": ["Login Issue", "System Down", "Transaction Failure", "Authorization Issue", "Other"]
+  },
+  "VPN Not Connecting": {
+    "teams": ["NET", "CCD"],
+    "sub-categories": ["Connectivity Issue", "Authentication Issue", "Client Configuration", "Firewall Block", "Other"]
+  },
+  "Outlook/Email Issue": {
+    "teams": ["CCD", "Messaging", "Security"],
+    "sub-categories": ["Send/Receive Issue", "Access Issue", "Spam Filtering", "Calendar Sync", "Other"]
+  },
+  "Password Reset": {
+    "teams": ["CCD", "IAM"],
+    "sub-categories": ["AD Password", "Application Password", "Multi-Factor Reset", "Self-Service Failure", "Other"]
+  },
+  "Printer Issue": {
+    "teams": ["CCD", "Facilities", "ITAM"],
+    "sub-categories": ["Not Printing", "Driver Issue", "Paper Jam", "Network Printer Offline", "Other"]
+  },
+  "Network Outage": {
+    "teams": ["NET", "Infra", "CCD"],
+    "sub-categories": ["LAN Issue", "WAN Issue", "Switch Failure", "ISP Down", "Other"]
+  },
+  "HR Portal Access": {
+    "teams": ["HR", "CCD"],
+    "sub-categories": ["Login Issue", "Permission Issue", "Profile Update Error", "Document Upload Issue", "Other"]
+  },
+  "Security Alert": {
+    "teams": ["Security", "SOC", "CCD"],
+    "sub-categories": ["Phishing", "Malware", "Unauthorized Access", "Suspicious Login", "Other"]
+  },
+  "Server Down": {
+    "teams": ["Infra", "STG", "DX"],
+    "sub-categories": ["Hardware Failure", "Service Crash", "Power Issue", "Patch Failure", "Other"]
+  },
+  "Storage Issue": {
+    "teams": ["STG", "Infra", "DX"],
+    "sub-categories": ["Access Issue", "Capacity Issue", "Mount Failure", "Snapshot Error", "Other"]
+  },
+  "Teams/Collab Issue": {
+    "teams": ["CCD", "CollabOps", "Messaging"],
+    "sub-categories": ["Login Issue", "Call Quality", "Meeting Join Failure", "Chat Sync Issue", "Other"]
+  },
+  "Payroll Access Issue": {
+    "teams": ["HR", "Finance", "CCD"],
+    "sub-categories": ["Access Denied", "Incorrect Data", "Payslip Download Issue", "Tax Info Missing", "Other"]
+  },
+  "Laptop Performance": {
+    "teams": ["ITAM", "CCD"],
+    "sub-categories": ["Slow Boot", "App Lag", "Overheating", "Battery Drain", "Other"]
+  },
+  "Access Request": {
+    "teams": ["IAM", "CCD", "HR"],
+    "sub-categories": ["Application Access", "Folder Access", "Role Change", "Temporary Access", "Other"]
+  }
+}
